@@ -1,0 +1,23 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+
+animalSpider01,entityclasses,Entity,,,Spider Sam,,,,,,,,,,,,,
+animalSpider01Feral,entityclasses,Entity,,,Feral Spider Sam,,,,,,,,,,,,,
+animalSpider01Radiated,entityclasses,Entity,,,Radiated Spider Sam,,,,,,,,,,,,,
+animalSpider01Mini,entityclasses,Entity,,,Mini Spider Sam,,,,,,,,,,,,,
+animalSpider01Queen,entityclasses,Entity,,,Queen Spider Sam,,,,,,,,,,,,,
+animalSpider02,entityclasses,Entity,,,Spider Sally,,,,,,,,,,,,,
+animalSpider02Feral,entityclasses,Entity,,,Feral Spider Sally,,,,,,,,,,,,,
+animalSpider02Radiated,entityclasses,Entity,,,Radiated Spider Sally,,,,,,,,,,,,,
+animalSpider02Mini,entityclasses,Entity,,,Mini Spider Sally,,,,,,,,,,,,,
+animalSpider02Queen,entityclasses,Entity,,,Queen Spider Sally,,,,,,,,,,,,,
+animalSpider03,entityclasses,Entity,,,Spider Sidney,,,,,,,,,,,,,
+animalSpider03Feral,entityclasses,Entity,,,Feral Spider Sidney,,,,,,,,,,,,,
+animalSpider03Radiated,entityclasses,Entity,,,Radiated Spider Sidney,,,,,,,,,,,,,
+animalSpider03Mini,entityclasses,Entity,,,Mini Spider Sidney,,,,,,,,,,,,,
+animalSpider03Queen,entityclasses,Entity,,,Queen Spider Sidney,,,,,,,,,,,,,
+
+spider_barn_01,POI,POIName,,x,Spider Barn,,,,,,,,,,,,,
+spider_cave_04,POI,POIName,,x,Spider Cave,,,,,,,,,,,,,
+spider_nest_01,POI,POIName,,x,Spider Nest,,,,,,,,,,,,,
+spider_remnant_downtown_filler_02,POI,POIName,,x,Spider 666,,,,,,,,,,,,,
+spider_remnant_house_04,POI,POIName,,x,Old Spider House,,,,,,,,,,,,,
